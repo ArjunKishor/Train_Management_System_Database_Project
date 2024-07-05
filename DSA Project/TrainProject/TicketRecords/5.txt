@@ -1,0 +1,17 @@
+-------------------------------------------------
+	J.A.R.S Railway Reservation
+-------------------------------------------------
+
+
+TICKET ID		:5
+TICKET NAME		:
+TRAIN NAME		:BulletTrain
+FROM		:Sukkur
+TO		:Islamabad
+CLASS		:Business
+QUANTITY		:6
+
+
+
+-------------------------------------------------
+TOTAL			: $1260

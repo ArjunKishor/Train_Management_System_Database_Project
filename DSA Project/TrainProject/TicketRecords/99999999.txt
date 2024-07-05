@@ -1,0 +1,17 @@
+-------------------------------------------------
+	J.A.R.S Railway Reservation
+-------------------------------------------------
+
+
+TICKET ID		:99999999
+TICKET NAME		:kalia
+TRAIN NAME		:BulletTrain
+FROM		:Sukkur
+TO		:Islamabad
+CLASS		:Business
+QUANTITY		:8
+
+
+
+-------------------------------------------------
+TOTAL			: $1680

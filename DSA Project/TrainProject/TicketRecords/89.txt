@@ -1,0 +1,17 @@
+-------------------------------------------------
+	J.A.R.S Railway Reservation
+-------------------------------------------------
+
+
+TICKET ID		:89
+TICKET NAME		:anjui
+TRAIN NAME		:Golden Arrow
+FROM		:Sukkur
+TO		:Islamabad
+CLASS		:Business
+QUANTITY		:5
+
+
+
+-------------------------------------------------
+TOTAL			: $1050
